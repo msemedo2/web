@@ -1,10 +1,15 @@
-9
-71C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\src133149038150316848 1
-72C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist133149039796877648 1
-78C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\index.html133149039793727643 0
-83C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist\index.html133149039796347512 0
-80C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\src\index.ts133149038150323194 0
+14
+94C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist\index.b71e74eb.js.map133149103715502799 0
+78C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\src\models133149049100936592 1
+78C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\.gitignore133149040833582979 0
+71C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\src133149049034355392 1
+72C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist133149103715512798 1
+78C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\index.html133149053371563283 0
+80C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\src\index.ts133149103715262797 0
+86C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\src\models\User.ts133149102165019865 0
 90C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist\index.377278e2.js133149039796837660 0
-88C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist\web.3464ddca.js133149039796077508 0
 94C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist\index.377278e2.js.map133149039796867673 0
+90C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist\index.b71e74eb.js133149103715472817 0
+83C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist\index.html133149053375083297 0
+88C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist\web.3464ddca.js133149039796077508 0
 92C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist\web.3464ddca.js.map133149039796117499 0
