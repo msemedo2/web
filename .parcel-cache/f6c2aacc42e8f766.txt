@@ -1,16 +1,17 @@
-214
+217
 80C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\package.json133149126810215778 0
-75C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\db.json133149106579398051 0
+75C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\db.json133149673147975229 0
+92C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\src\models\Attributes.ts133149698867320898 0
 106C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\axios\lib\helpers\null.js133149107792154828 0
-78C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\.gitignore133149040833582979 0
 107C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\follow-redirects\README.md133149107791144825 0
+78C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\.gitignore133149040833582979 0
 109C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\axios\dist\browser\axios.cjs133149107791424835 0
 104C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\proxy-from-env\index.js133149107791054825 0
 105C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\follow-redirects\http.js133149107791064832 0
 71C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\src133149049034355392 1
 98C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\form-data\License133149107791004834 0
 86C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\axios133149107792784828 1
-72C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist133149129115188295 1
+72C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist133149718910502969 1
 105C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\form-data\lib\browser.js133149107791064832 0
 78C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\index.html133149053371563283 0
 80C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules133149126809815792 1
@@ -18,11 +19,13 @@
 134C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\axios\lib\platform\browser\classes\URLSearchParams.js133149107792284833 0
 88C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\ieee754133149126810065779 1
 85C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\package-lock.json133149126810195791 0
-80C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\src\index.ts133149129114678277 0
+80C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\src\index.ts133149719006984284 0
 106C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\follow-redirects\index.js133149107791114857 0
 105C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\axios\MIGRATION_GUIDE.md133149107792714825 0
-78C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\src\models133149049100936592 1
-86C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\src\models\User.ts133149102165019865 0
+78C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\src\models133149676556519719 1
+90C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\src\models\Eventing.ts133149617635682897 0
+86C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\src\models\Sync.ts133149674095685171 0
+86C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\src\models\User.ts133149718682036941 0
 101C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\form-data\index.d.ts133149107791164832 0
 99C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\.package-lock.json133149126810245787 0
 105C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\proxy-from-env\README.md133149107791124835 0
@@ -30,15 +33,14 @@
 90C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\base64-js133149126810075787 1
 87C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\buffer133149126810105801 1
 99C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\mime-db\HISTORY.md133149107791154838 0
-90C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist\index.b71e74eb.js133149129115148276 0
+90C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist\index.b71e74eb.js133149718910462962 0
 96C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\combined-stream133149107791084828 1
 90C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\axios\bin133149107792224839 1
 99C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\ieee754\index.d.ts133149126810065779 0
 96C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\mime-db\db.json133149107791114857 0
-83C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist\index.html133149126814289106 0
+83C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist\index.html133149674107445130 0
 102C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\mime-types\HISTORY.md133149107791074839 0
 95C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\delayed-stream133149107791094824 1
-110C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\follow-redirects\package.json133149107791134832 0
 114C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\asynckit\lib\readable_asynckit.js133149107791194849 0
 104C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\axios\dist\axios.min.js133149107791724832 0
 104C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\delayed-stream\Makefile133149107791074839 0
@@ -64,8 +66,8 @@
 91C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\axios\dist133149107792604835 1
 107C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\proxy-from-env\.travis.yml133149107791144825 0
 108C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\proxy-from-env\package.json133149107791094824 0
-103C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\proxy-from-env\test.js133149107791074839 0
 106C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\delayed-stream\.npmignore133149107791024828 0
+103C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\proxy-from-env\test.js133149107791074839 0
 100C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\mime-types\index.js133149107791024828 0
 101C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\mime-types\README.md133149107791094824 0
 96C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\mime-db\LICENSE133149107790974835 0
@@ -79,6 +81,7 @@
 100C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\form-data\Readme.md133149107791154838 0
 107C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\form-data\lib\form_data.js133149107791084828 0
 106C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\follow-redirects\debug.js133149107791034830 0
+110C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\follow-redirects\package.json133149107791134832 0
 99C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\delayed-stream\lib133149107791114857 1
 103C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\delayed-stream\License133149107791054825 0
 114C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\axios\lib\cancel\CanceledError.js133149107791834826 0
@@ -212,4 +215,4 @@
 107C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\node_modules\asynckit\lib\terminator.js133149107791244843 0
 90C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist\index.377278e2.js133149039796837660 0
 94C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist\index.377278e2.js.map133149039796867673 0
-94C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist\index.b71e74eb.js.map133149129115178282 0
+94C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\web\dist\index.b71e74eb.js.map133149718910492945 0
