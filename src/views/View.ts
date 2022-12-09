@@ -11,7 +11,10 @@ export abstract class View<T extends Model<K>, K extends HasId> {
 		});
 	}
 
-	abstract eventsMap(): { [key: string]: () => void };
+	eventsMap(): { [key: string]: () => void } {
+		return {};
+	}
+
 	abstract template(): string;
 
 	bindEvents(fragment: DocumentFragment): void {
